@@ -35,7 +35,7 @@ This app allows users to book travel by entering their details, choosing a cabin
 - On tapping **Book Now**, input validation checks are performed.
 - If valid, it navigates to the **Result Screen** using a storyboard segue.
 
-### 2. **Result Screen (GoswamiResultViewController)**
+### 2. **Result Screen (ResultViewController)**
 - Displays the calculated total cost and booking confirmation.
 - Shows appropriate images:
   - `economy.png` → for economy class  
