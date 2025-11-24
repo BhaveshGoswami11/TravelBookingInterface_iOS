@@ -36,11 +36,12 @@ This app allows users to book travel by entering their details, choosing a cabin
 - If valid, it navigates to the **Result Screen** using a storyboard segue.
 
 ### 2. **Result Screen (ResultViewController)**
-- Displays the calculated total cost and booking confirmation.
-- Shows appropriate images:
-  - `economy.png` → for economy class  
-  - `luxury.png` → for luxury class  
-  - `invalid.png` → for invalid input
+- ## 🖼️ App Preview
+
+| Home Screen | Economy Booking | Luxury Booking | Invalid Entry |
+|-------------|-----------------|----------------|----------------|
+| ![Home Screen](https://github.com/BhaveshGoswami11/TravelBookingInterface_iOS/blob/main/Sneak%20Peek%20of%20Working%20App/Home%20Screen.png?raw=true) | ![Economy Booking](https://github.com/BhaveshGoswami11/TravelBookingInterface_iOS/blob/main/Sneak%20Peek%20of%20Working%20App/Economy%20Booking.png?raw=true) | ![Luxury Booking](https://github.com/BhaveshGoswami11/TravelBookingInterface_iOS/blob/main/Sneak%20Peek%20of%20Working%20App/Luxury%20Booking.png?raw=true) | ![Invalid Entry](https://github.com/BhaveshGoswami11/TravelBookingInterface_iOS/blob/main/Sneak%20Peek%20of%20Working%20App/Invalid%20Entry.png?raw=true) |
+
 
 ---
 
